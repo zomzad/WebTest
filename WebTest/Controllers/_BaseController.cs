@@ -8,10 +8,5 @@ namespace WebTest.Controllers
 {
     public class _BaseController : Controller
     {
-        // GET: _Base
-        public ActionResult Index()
-        {
-            return View();
-        }
     }
 }
